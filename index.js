@@ -23,9 +23,7 @@ function findMatching(array, driver){
     })
   }*/
 
-  /*`matchName` - `
-  as arguments.The function should return each element whose `name` property matches the
-  provided `string` argument.*/
+  //matchName:  return each element whose `name` property matches the provided `string` argument.
   const drivers1 = [
     {
       name: 'Bobby',
